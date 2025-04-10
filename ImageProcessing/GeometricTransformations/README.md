@@ -1,0 +1,2 @@
+Geometric transformations are fundamental operations in computer vision that alter the spatial arrangement of pixels in an image. 
+This folder will contain all algorithms related to geometric transformation on image such as inverse perspective mapping, affine transformations, homography calculations, image warping, rotation, scaling, translation, perspective corrections, lens distortion compensation, and coordinate system conversions etc.
